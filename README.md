@@ -1,3 +1,6 @@
+# gfwlist without whitelist
+the whitelist pattern can not be overwrite
+
 # gfwlist
 ## The OFFICIAL gfwlist here!
 
